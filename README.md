@@ -7,8 +7,9 @@ Ejercicio Realizado con Cisco Packet Tracer 6.2.0
    1.  Crear tres subredes (VLSM), una que soporte 100 host, otra que soporte 30 
        y por último una para 6 host. Sólo esta última podrá salir fuera. 
        Cada una tendrá cuatro ordenadores conectados.
-       Cada red de 4 ordenadores tendrá un grupo de IP fija. Las 3 subredes estarán
-       conectadas a un mismo switch.
+       Cada red de 4 ordenadores tendrá un grupo de IP fija y estarán conectados a 
+       un switch. Cada switch se conectará a otro switch general para recibir toda
+       la información.
 				
    2.  8 ordenadores con DHCP.
        Todos los ordenadores deberán estar conectados a un servidor mediante un switch.
